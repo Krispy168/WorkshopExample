@@ -13,6 +13,6 @@ To use this framework you will need to:
 2. Replace my name (Samuel Hinton) with yours (used in the doc and license).
 3. Replace my email (Krispy168@gmail.com) with your own.
 3. Update the project name if you rename it.
-4. Enable Travis, CodeCov and Codacy.
+4. Enable Travis, CodeCov and Codacy. 
 5. Update the codacy badge in this readme because it uses more than username/repo
 6. Set an environment variable GITHUB_API_KEY with a Personal Access Token to commit Sphinx html.
