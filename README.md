@@ -10,7 +10,7 @@ A small github repo used as an example for the coding workshop!
 To use this framework you will need to:
 
 1. Replace all instances of Krispy168, Krispy168, Krispy168, with your own username.
-2. Replace my name (Samuel Hinton) with yours (used in the doc and license).
+2. Replace my name (Chris Johnson) with yours (used in the doc and license).
 3. Replace my email (Krispy168@gmail.com) with your own.
 3. Update the project name if you rename it.
 4. Enable Travis, CodeCov and Codacy. 
